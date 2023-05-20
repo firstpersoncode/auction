@@ -1,30 +1,30 @@
 See [Live Demo](https://auction.firstpersoncode.dev/)
 
-## Architecure
+# Architecure
 
-#### Overview
+### Overview
 
 The web app is an online auction system where users can create and bid on items, it also includes a deposit feature.
 
-#### Client-side:
+### Client-side:
 
 - HTML and CSS: Responsible for presenting the user interface (UI) and handling user interactions.
 
 - React.js and Javascript: Facilitates UI development and provides a structured approach to manage client-side logic.
 
-#### Server-side:
+### Server-side:
 
 - Next.js: Handles back-end, consume database, renders the front-end, request handling, and routing.
 
 - MongoDB: Stores and retrieves items, bids, user information, and balance.
 
-#### Communication:
+### Communication:
 
 - RESTful APIs: Enable communication between the client-side and server-side components, allowing data retrieval and submission.
 
 - JSON (JavaScript Object Notation): Used for data serialization and exchange between the client and server.
 
-#### Security:
+### Security:
 
 - Secure Socket Layer (SSL)/Transport Layer Security (TLS): Encrypts data transmission to protect sensitive information.
 
@@ -32,7 +32,7 @@ The web app is an online auction system where users can create and bid on items,
 
 - Normalize response: Helps mitigate security risks and ensures that the response does not contain any potentially harmful content that could be exploited by attackers.
 
-#### Infrastructure:
+### Infrastructure:
 
 - DigitalOcean:
 
@@ -52,15 +52,15 @@ The web app is an online auction system where users can create and bid on items,
 
 ---
 
-## ERD:
+### ERD:
 
 ![ERD](https://lh3.googleusercontent.com/fife/APg5EOa3lWBbHfa4qkyPwH1ZbWVgHBELocqLmfM1p4s95lTucF1P57Dgrn70RXeWAixcyLQK1OqEWfwVM9GIs_0gGlBN_NpCuxir6592p0_EsnnfWKx2Ru7rqx5zEYhohpc7XhY6S8okY6WG9DGAosxsxFDdxrudz9vnvG_xwMp8mzDdKTFU8SWAuj0XnpSs4PQPyCncwuUpwV8PHCXXqdyFmYUN6bZB7Sx5Y98MjatsnUuqPlvur8XrUeKNO4ZHuAOOTxUBF9m_cX8Wu3jiIhT0tB0NKMpdO-oyASOeXryCV5BI1ZjETbtjbc0OQVqpBfDQAfGZSnp4IF8rMF1ydbMfAwvMcGIuDv1Mp-pmh1UySptrjVKDss4_J9ISNU9kh8VqAxjIohdVuo313Gl8JYc-1VJ16dpesCFEp9VdaPMfFpzJqzMk_ehEJ_XB3WiU8dJTx3KQHZB5fN6MFn5tt-yqkJjeNy7onJsNULwwCWASie67OjtkR9heWO8CtiLZZYP5F8avy2QuJV7u_AXol1XJMr1Q7mbZ_LAWJnsJ6ZSVXUokLavVNgeJnDvrhuhWet1h8WhQ7kN9e7Pmfd-l7m4jLTpR2-jPU4hyxPk2-WXjYUP5skB0kC-Zk6TYejpMwz_sLtTumCFxxf35lk66iF0RNVIemdtAPXFIBXNLDpDylMOO8EP-PJqaSJlCAWwAN0Mjy00v-VlJ4m_78VVqEyiT3HHuMed3MQiU1Y644bCNSNfBUy1fQfGXKZ9QCtAF5EQs9NSJ6j7rNe5qLW4PfLR1gMMQo8c_t8gPE8tP-3hf7A_jKIhCbgPBLbH-TRS3Zal4Gn97LgTKC5BpkYyGHjeJ06p77s7B4WQdzIevwr8D24kPzXnyw32tyEnYPcEZ-uM1tt8XXQEkqY2bXXlU4SsUANf-5IKsbWDWGR-3y-AXx8r8ouG0KQImIedXCWs6kLOLn0_H6En9z8JUh93gerUEOSYIcMkmaicjJyZhVXd3aM1vdAo1Mhlmgpn7ZWXIZkdWHFdHfzzWlJj_IW77hiVNyF2KYatgi7u7fyWqc8W4gOgzRtOpcBh42UgLkbG00f124SWWXC8HL38lug3URm4iU3pA-7wcr-p7cgDfokXCcwNSgexns4qal19xvgIVGzWsQTCi87JwTuctBg4F-6gza1OPLBfAr804zWGJforLs6owVofMFIbIigB71hOLgEsP2-QbTzFxttYnzDiXIlHBr7bFVt9Cu64wgHXQHbljnbP_rF8TUXZKTRmokxbb12OWhhKaGdxlFOOLvbdmonWrzlFKuAVKNugltuWyAp9Q0_sqlLOtKAdfNaZK31Vff7e-jzhN_5Ia3wobFnHYo_blrjA-7H4rdcburiLTbDJBAMVQtQ5mbpsPtNw6P8B5mTvG1X403-XE3ALtF6PjPkylS3KQDA5og8sanb4BmN7kKiHlfY6zFOVH3L1jm7nYSC9xhkZKpDWYnYEkmHxpaSoM1YAAl84DLu_KK8PwRKA3od0X5IF9t_gc3xcr16lpsfwEJi4yoQ4czYc6_AbZK6hK-Qa1ynO8aDrQls-bGlJVMy1M06nJkiWAXQGIlxLIO9CbYMbedlTkWLANppOkeS4dwCpBvoSynMP3JhKSu9t2xLdm1-lVCR-XLdVgwO0Litkcln_7fROviBt_aBBH=w1920-h880)
 
 ---
 
-## Wireframe:
+### Wireframe:
 
-## ![Wireframe](https://iruuzainc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffbefb7fc-8011-448c-8f05-a37b687d8ef0%2FUntitled.png?id=7676818c-4824-4e1f-98f4-9ac40aebf5bd&table=block&spaceId=be6005d7-8302-4c8e-93fe-03d0d3d71970&width=2000&userId=&cache=v2)
+![Wireframe](https://iruuzainc.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffbefb7fc-8011-448c-8f05-a37b687d8ef0%2FUntitled.png?id=7676818c-4824-4e1f-98f4-9ac40aebf5bd&table=block&spaceId=be6005d7-8302-4c8e-93fe-03d0d3d71970&width=2000&userId=&cache=v2)
 
 ---
 
@@ -102,7 +102,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-## The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+#### The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 ---
 
@@ -152,7 +152,7 @@ The `context` folder includes files related to the global context, which control
 
 - `global.tsx`: This file represents the global context file, which defines the context provider and manages the global state of the app. It can include state variables, actions, and handlers that update the state. The components within the `components` folder can access and interact with this global context to maintain a consistent state across the app.
 
-## MVVM Paradigm
+### MVVM Paradigm
 
 The project structure described above follows the MVVM (Model-View-ViewModel) paradigm, which separates concerns and promotes a modular approach to development.
 
@@ -160,7 +160,7 @@ The project structure described above follows the MVVM (Model-View-ViewModel) pa
 - **View**: The "View" layer is responsible for rendering the UI elements and handling user interactions. It includes the components located in the `components` folder, which are purely focused on the presentation logic and do not contain complex business logic.
 - **ViewModel**: In this project structure, the "ViewModel" layer is represented by the global context defined in the `context/global.tsx` file. The ViewModel acts as an intermediary between the Model and View layers, providing access to the global state and handling state updates. Components in the `components` folder can interact with the ViewModel to read and update the global state.
 
-## The separation of concerns in this project structure adheres to the MVVM paradigm, allowing for maintainable, testable, and scalable code. The components in the "View" layer are decoupled from the business logic and can easily be reused or modified independently. The global context serves as the central point
+#### The separation of concerns in this project structure adheres to the MVVM paradigm, allowing for maintainable, testable, and scalable code. The components in the "View" layer are decoupled from the business logic and can easily be reused or modified independently. The global context serves as the central point
 
 ## API Unit Test
 
@@ -281,7 +281,7 @@ The unit test file `api.ts` includes the following test cases:
 
 ---
 
-## Services:
+## APIs:
 
 #### User:
 
